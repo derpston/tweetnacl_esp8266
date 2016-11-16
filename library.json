@@ -1,0 +1,23 @@
+{
+  "name": "tweetnacl",
+  "keywords": "crypto cryptography encryption signing NaCl",
+  "description": "TweetNaCl (http://tweetnacl.cr.yp.to/) is a minimal, safe, and easy to use cryptography library. Repackaged here for easy use on the ESP8266 platform.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derpston/tweetnacl_esp8266.git"
+  },
+  "version": "20140427.0",
+  "authors": [
+    { "name": "Derp Ston", "url": "http://github.com/derpston" },
+    { "name": "Daniel J. Bernstein" },
+    { "name": "Bernard van Gastel" },
+    { "name": "Wesley Janssen" },
+    { "name": "Tanja Lange" },
+    { "name": "Peter Schwabe" },
+    { "name": "Sjaak Smetsers" }
+  ],
+  "exclude": [
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
